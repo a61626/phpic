@@ -1,4 +1,4 @@
 <?php
-echo "Hello Word";
-
+echo "Hello Word Dickilza neves";
+echo " A vida é uma maravilha";
 ?>
